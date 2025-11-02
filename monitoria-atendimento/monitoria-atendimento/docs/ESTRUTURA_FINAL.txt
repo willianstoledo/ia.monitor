@@ -1,0 +1,49 @@
+.
+├── Makefile
+├── README.md
+├── backend
+│   ├── Dockerfile
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── models
+│   │   ├── routes
+│   │   └── utils
+│   ├── app.py
+│   ├── backend.log
+│   ├── config.py
+│   ├── init_db.py
+│   └── requirements.txt
+├── deploy.sh
+├── docker-compose.yml
+├── docs
+│   ├── ARQUIVOS_DEPLOY.md
+│   ├── CHECKLIST_DEPLOY.md
+│   ├── DEPLOY.md
+│   ├── ESTRUTURA_FINAL.txt
+│   ├── ESTRUTURA_PROJETO.txt
+│   ├── GUIA_USUARIO.md
+│   └── PROGRESSO_SESSAO.md
+└── frontend
+    ├── Dockerfile
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── nginx.conf
+    ├── package.json
+    ├── pnpm-lock.yaml
+    ├── postcss.config.js
+    ├── public
+    │   └── vite.svg
+    ├── src
+    │   ├── App.jsx
+    │   ├── assets
+    │   ├── components
+    │   ├── config
+    │   ├── context
+    │   ├── index.css
+    │   ├── main.jsx
+    │   └── pages
+    ├── tailwind.config.js
+    └── vite.config.js
+
+14 directories, 32 files

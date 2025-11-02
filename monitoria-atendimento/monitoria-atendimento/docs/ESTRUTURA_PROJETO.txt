@@ -1,0 +1,38 @@
+.
+├── README.md
+├── backend
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── models
+│   │   ├── routes
+│   │   └── utils
+│   ├── app.py
+│   ├── backend.log
+│   ├── config.py
+│   ├── init_db.py
+│   └── requirements.txt
+├── docs
+│   ├── ESTRUTURA_PROJETO.txt
+│   └── PROGRESSO_SESSAO.md
+└── frontend
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    ├── pnpm-lock.yaml
+    ├── postcss.config.js
+    ├── public
+    │   └── vite.svg
+    ├── src
+    │   ├── App.jsx
+    │   ├── assets
+    │   ├── components
+    │   ├── config
+    │   ├── context
+    │   ├── index.css
+    │   ├── main.jsx
+    │   └── pages
+    ├── tailwind.config.js
+    └── vite.config.js
+
+14 directories, 21 files
